@@ -2,4 +2,4 @@ Printing Hello World new1
 ========================
 
 ::
-  print(Hello)
+  print("Hello world")
